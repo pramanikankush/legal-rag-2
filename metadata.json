@@ -1,0 +1,5 @@
+{
+  "name": "LexAI - Legal RAG Advisor",
+  "description": "An advanced AI Legal Assistant using Gemini Pro and RAG to analyze cases, assess risk, and provide statutory reasoning.",
+  "requestFramePermissions": []
+}
