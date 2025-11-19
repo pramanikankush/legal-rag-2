@@ -2,6 +2,7 @@
 
 <div align="center">
 
+**Demo Link** : https://legal-rag-2.vercel.app/
 **An AI-powered legal advisory system with Retrieval-Augmented Generation (RAG) capabilities**
 
 [![React](https://img.shields.io/badge/React-18-blue.svg)](https://react.dev/)
